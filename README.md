@@ -83,6 +83,7 @@ Most people are not publicly using Al, despite these advantages
 
 ## Guides
 > * Explain step-by-step how `a radio works`.
+> * Provide a deep understanding of the `internal combustion engine`.
 
 ## [Answers in a specific document](https://twitter.com/yiqinfu/status/1631377850686230528?s=20)
 Tells you when the article it's summarizing doesn't contain the info you want.
